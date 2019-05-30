@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Responsive Portfolio without bootstrap
+# Basic-Portfolio
+Uoft-basic-portfolio
